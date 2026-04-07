@@ -1,0 +1,8 @@
+flet
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+pymysql
+requests
+fpdf
