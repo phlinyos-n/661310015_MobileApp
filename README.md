@@ -39,3 +39,5 @@ Step 1: รัน Backend ด้วยคำสั่ง python -m uvicorn backe
 Step 2: เข้าไปที่ http://127.0.0.1:8000/docs เพื่อเช็คความเรียบร้อย (ต้องขึ้น Code 200)
 
 Step 3: รันหน้าแอปด้วยคำสั่ง flet run frontend.py เพื่อใช้งานจริง
+
+#https://drive.google.com/file/d/1SUjTfiV2HT17kHRpQi-5h7fT2obAl0J2/view?usp=sharing
